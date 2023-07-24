@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @xBiswajitx
+- 👋 Hi, I’m Biswajit Das
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning NodeJs
+- Have basic coding knowledge on JavaScript, Python
+- 🌱 I’m currently working on Power BI
 - 📫 How to reach me:- biswa13579@gmail.com
 
 <!---
